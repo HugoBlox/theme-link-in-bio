@@ -50,10 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Get in Touch
 
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)
-
-{{< icon name="weixin" pack="fab" >}}TestUser on 微信
-
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
+{{< icon name="weixin" pack="fab" >}}TestUser on 微信  
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
 
 ## Credits
