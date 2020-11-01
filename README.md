@@ -1,10 +1,10 @@
-[![Screenshot](https://github.com/wowchemy/starter-hello-world/raw/main/preview.png)](https://wowchemy.com/templates/)
-
 # Wowchemy's Hello World Template for [Hugo](https://github.com/gohugoio/hugo)
 
-Kick off your project with this Hello World boilerplate. This starter ships with the main Wowchemy configuration files you might need to get up and running fast with the Wowchemy Website Builder for Hugo.
+Kick off your site with this Hello World boilerplate. This starter ships with the main Wowchemy configuration files you might need to get up and running fast with the Wowchemy Website Builder for Hugo.  👉 [**Get Started**](https://wowchemy.com/templates/)
 
-[Check out the demo](https://starter-hello-world.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+[Check out the demo](https://starter-hello-world.netlify.app/) of what you'll get in less than 10 minutes, or [read the user stories](https://wowchemy.com/user-stories/).
+
+[![Screenshot](https://github.com/wowchemy/starter-hello-world/raw/main/preview.png)](https://wowchemy.com/templates/)
 
 [**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
