@@ -3,15 +3,15 @@
 # Documentation: https://wowchemy.com/docs/
 #
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[search]`).
+# Each config section after this section is defined by a name in square brackets (e.g. `[search]`).
 
 ############################
 ## Theme
 ############################
 
 # Choose a theme.
-#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in themes in `themes/academic/data/themes/`
+#   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
+#   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
 
@@ -19,10 +19,10 @@ theme = "minimal"
 day_night = true
 
 # Override the theme's font set (optional).
-#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in font sets in `themes/academic/data/fonts/`
+#   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
+#   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "native"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -73,9 +73,8 @@ diagram = false
 #   Anonymize IP in Google Analytics (if enabled)
 privacy_pack = false
 
-# Enable visitors to edit pages?
-#   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {page = false, post = false}}
+# Does the site use the Portfolio widget or Publication archive?
+require_isotope = false
 
 ############################
 ## Social
@@ -159,7 +158,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

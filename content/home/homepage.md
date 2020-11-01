@@ -5,9 +5,8 @@
 
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-active: true  # Activate this widget? true/false
 weight: 10  # Order that this section will appear.
-title: "👋 Welcome to the Hello World Template"
+title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
 subtitle: ""
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -31,24 +30,32 @@ advanced:
   css_class: fullscreen
 ---
 
-Kick off your project with this **Hello World** boilerplate. This starter ships with the main Wowchemy configuration files you might need to get up and running fast with the Wowchemy Website Builder for Hugo.
+## My Mission
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
 
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+## Specialties
 
-## Crowd-funded open-source software
+Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Experience
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+### AI Robota: 2015 - Current
 
-## Get inspired
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-[Check out the awesome sites that users have created](https://wowchemy.com/user-stories/).
+### AI Soup: 2000 - 2015
 
-_Photo by [Malcolm Lightbody](https://unsplash.com/photos/mfKdQMDSUSU)_
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Get in Touch
+
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)
+
+{{< icon name="weixin" pack="fab" >}}TestUser on 微信
+
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
+
+## Credits
+
+[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
