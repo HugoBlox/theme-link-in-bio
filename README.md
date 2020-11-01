@@ -1,4 +1,4 @@
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/starter-hello-world/master/preview.png)](https://wowchemy.com/templates/)
+[![Screenshot](https://github.com/wowchemy/starter-hello-world/raw/main/preview.png)](https://wowchemy.com/templates/)
 
 # Wowchemy's Hello World Template for [Hugo](https://github.com/gohugoio/hugo)
 
