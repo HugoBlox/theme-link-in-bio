@@ -22,7 +22,7 @@ design:
     image: hello.jpg  # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
-    image_position: center
+    image_position: right
     image_parallax: true
     text_color_light: true
 advanced:
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Get in Touch
 
 [{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}TestUser on 微信  
+{{< icon name="weixin" pack="fab" >}}微信用户名  
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
 
 ## Credits
