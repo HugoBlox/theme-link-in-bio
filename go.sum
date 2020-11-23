@@ -1,4 +1,6 @@
-github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201031183616-e6dba41f3dfb/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
-github.com/wowchemy/wowchemy-hugo-modules/themes/hello-world v0.0.0-20201107234021-93ce3d22adfc h1:nTmIpBNbKXuHBOt7Cdw1GVlc1RXL2yO7wdjv313sPzk=
-github.com/wowchemy/wowchemy-hugo-modules/themes/hello-world v0.0.0-20201107234021-93ce3d22adfc/go.mod h1:k0Uoen/VSW9EDznsWqqW/4YMyZhjvIzQZU4UW6EJioY=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201107233547-e18ecbbff3a2/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201123005717-057ded33f5d4 h1:ChA2yDKoKt6T5WcNtoUjN8rvf11Gy60h+BrzgIY3ulk=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201123005717-057ded33f5d4/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
+github.com/wowchemy/wowchemy-hugo-modules/themes/hello-world v0.0.0-20201123005717-057ded33f5d4 h1:cYDp3O3glMj5gT4uSvbTp2mmUiCEErKEE14Wt5jz6Wk=
+github.com/wowchemy/wowchemy-hugo-modules/themes/hello-world v0.0.0-20201123005717-057ded33f5d4/go.mod h1:RPpGuhdrG9pIFecJ1tDXmgucqq1qGRw3uCi7DwqPcrY=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201123005717-057ded33f5d4 h1:sdNaLPO/f975NNd5H9S9c8w4JREJ5IOjBE2tAno9lck=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201123005717-057ded33f5d4/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
