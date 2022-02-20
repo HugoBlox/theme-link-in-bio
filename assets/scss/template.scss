@@ -1,0 +1,13 @@
+// Minimal template style
+
+// Narrower container for homepage sections (primarily Blank widget content).
+@media (min-width: 1200px) {
+  .home-section .container {
+    max-width: 880px;
+  }
+}
+@media (min-width: 992px) {
+  .home-section .container {
+    max-width: 880px;
+  }
+}

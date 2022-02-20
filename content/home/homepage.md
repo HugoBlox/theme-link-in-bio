@@ -18,7 +18,7 @@ design:
     #   Uncomment (by removing `#`) an option to apply it.
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
-    # color: navy
+    color: black
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: hello.jpg  # Name of image in `static/media/`.
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)  
 [{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
 {{< icon name="weixin" pack="fab" >}}微信用户名  
 
