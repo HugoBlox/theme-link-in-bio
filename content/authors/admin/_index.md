@@ -1,58 +1,47 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 吳健雄
 
-# Is this the primary user of the site?
-superuser: true
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
 
-# Role/position
-role: ''
+# Full name (for SEO)
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
   icon: ☕️
 
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+# Is this the primary user of the site?
+superuser: true
 
-# Short bio (displayed in user profile at end of posts)
-bio: ''
+# Role/position/tagline
+role: Professor of Artificial Intelligence
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+
+# Social Networking
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+  - icon: send
+    link: 'mailto:your-email@example.com'
   - icon: twitter
-    icon_pack: fab
     link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/spacex/
-  - icon: weibo
-    icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/uploads/resume.pdf`
-  - icon: file-pdf
-    icon_pack: fas
-    label: View Resume
+    label: Follow me on Twitter
+  - icon: google-scholar
+    link: https://scholar.google.com/citations?user=mG4imMEAAAAJ
+  - icon: linkedin
+    link: https://www.linkedin.com/
+  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+  - icon: cv
     link: uploads/resume.pdf
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
 ---
+
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
+distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
+self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+{style="text-align: justify; font-size: 0.8em;"}

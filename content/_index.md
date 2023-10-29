@@ -1,27 +1,31 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: 'Home'
+date: 2023-10-24
 type: landing
+
+design:
+  background:
+    image:
+      # Add your image background to `assets/media/`.
+      filename: bg-hue.svg
+
 sections:
   - block: about.avatar
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # The user's folder name in content/authors/
       username: admin
-      text: |-
-        👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-    design:
-      background:
-        color: black
-        text_color_light: true
-        image:
-          # Add your image background to `assets/media/`.
-          filename: space.jpg
-          filters:
-            brightness: 0.4
-          size: cover
-          position: center
-          parallax: false
-      css_class: d-flex fullscreen align-items-center
+  - block: buttons
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - title: Read my latest paper on LLMs
+          icon: arxiv
+          url: https://arxiv.org/abs/2304.01852
+        - title: Watch my new YouTube video to achieve 20x productivity
+          icon: youtube
+          url: https://youtube.com
+        - title: Connect with me on LinkedIn
+          icon: linkedin
+          url: https://linkedin.com
 ---
